@@ -7,19 +7,12 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
 For More Details Click Help Button Below..
 @CrazyBotsz
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
-
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
@@ -56,3 +49,4 @@ For More Details Click Help Button Below..
 
 <b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
 """
+ 
